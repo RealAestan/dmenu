@@ -1,7 +1,10 @@
-dmenu - dynamic menu
+Custom build of dmenu v5.0
 ====================
-dmenu is an efficient dynamic menu for X.
-
+This build uses:
+- border (option -bw)
+- center (option -c)
+- password (option -P)
+- xresources (dmenu.font, dmenu.background, dmenu.foreground, dmenu.selbackground, dmenu.selforeground)
 
 Requirements
 ------------
