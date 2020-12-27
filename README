@@ -4,7 +4,7 @@ This build uses:
 - border (option -bw)
 - center (option -c)
 - password (option -P)
-- xresources (dmenu.font, dmenu.background, dmenu.foreground, dmenu.selbackground, dmenu.selforeground)
+- xresources (dmenu.font, background => dmenu.background, foreground => dmenu.color4, selbackground => dmenu.color8, selforeground => dmenu.color4)
 
 Requirements
 ------------
