@@ -5,6 +5,7 @@ This build uses:
 - center (option -c)
 - password (option -P)
 - xresources (dmenu.font, dmenu.background, dmenu.foreground, dmenu.selbackground, dmenu.selforeground)
+- dmenu-fuzzymatch (option -F to disable fuzzymatch)
 
 Requirements
 ------------
