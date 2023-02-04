@@ -5,11 +5,11 @@ This build uses:
 - center (`-c`)
 - password (`-P`)
 - xresources (dmenu.font, dmenu.background, dmenu.foreground, dmenu.selbackground, dmenu.selforeground)
-- dmenu-fuzzymatch (`-F` to disable fuzzymatch)
-- dmenu-fuzzyhighlight with xresources compat (dmenu.hibackground, dmenu.hiforeground, dmenu.selhibackground, dmenu.selhiforeground)
-- dmenu-lineheight (`-h`)
-- dmenu-rejectnomatch (use `-r` and disable fuzzymatch if you want to use it)
-- emoji support (see https://tools.suckless.org/dmenu/patches/allow-color-font/)
+- fuzzymatch (`-F` to disable it)
+- fuzzyhighlight with xresources compat (dmenu.hibackground, dmenu.hiforeground, dmenu.selhibackground, dmenu.selhiforeground)
+- lineheight (`-h`)
+- rejectnomatch (use `-r` and disable fuzzymatch if you want to use it)
+- emoji support (see allow-color-font patch)
 
 Requirements
 ------------
