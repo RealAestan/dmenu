@@ -1,4 +1,4 @@
-Custom build of dmenu v5.1
+Custom build of dmenu v5.2
 ====================
 This build uses:
 - border (`-bw`)
