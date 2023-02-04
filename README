@@ -6,6 +6,9 @@ This build uses:
 - password (option -P)
 - xresources (dmenu.font, dmenu.background, dmenu.foreground, dmenu.selbackground, dmenu.selforeground)
 - dmenu-fuzzymatch (option -F to disable fuzzymatch)
+- dmenu-fuzzyhighlight with xresources compat (dmenu.hibackground, dmenu.hiforeground, dmenu.selhibackground, dmenu.selhiforeground)
+- dmenu-lineheight (option -h)
+- emoji patch (see https://youtu.be/0QkByBugq_4)
 
 Requirements
 ------------
