@@ -8,7 +8,7 @@ This build uses:
 - dmenu-fuzzymatch (option -F to disable fuzzymatch)
 - dmenu-fuzzyhighlight with xresources compat (dmenu.hibackground, dmenu.hiforeground, dmenu.selhibackground, dmenu.selhiforeground)
 - dmenu-lineheight (option -h)
-- emoji patch (see https://youtu.be/0QkByBugq_4)
+- emoji support (see https://tools.suckless.org/dmenu/patches/allow-color-font/)
 
 Requirements
 ------------
