@@ -1,13 +1,14 @@
 Custom build of dmenu v5.1
 ====================
 This build uses:
-- border (option -bw)
-- center (option -c)
-- password (option -P)
+- border (`-bw`)
+- center (`-c`)
+- password (`-P`)
 - xresources (dmenu.font, dmenu.background, dmenu.foreground, dmenu.selbackground, dmenu.selforeground)
-- dmenu-fuzzymatch (option -F to disable fuzzymatch)
+- dmenu-fuzzymatch (`-F` to disable fuzzymatch)
 - dmenu-fuzzyhighlight with xresources compat (dmenu.hibackground, dmenu.hiforeground, dmenu.selhibackground, dmenu.selhiforeground)
-- dmenu-lineheight (option -h)
+- dmenu-lineheight (`-h`)
+- dmenu-rejectnomatch (use `-r` and disable fuzzymatch if you want to use it)
 - emoji support (see https://tools.suckless.org/dmenu/patches/allow-color-font/)
 
 Requirements
