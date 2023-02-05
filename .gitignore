@@ -5,3 +5,5 @@ stest.o
 util.o
 config.h
 dmenu
+*.orig
+*.rej
