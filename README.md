@@ -1,5 +1,5 @@
-Custom build of dmenu v5.2
-====================
+# Custom build of dmenu v5.2
+
 This build uses:
 - border (`-bw`)
 - center (`-c`)
@@ -11,13 +11,12 @@ This build uses:
 - rejectnomatch (use `-r` and disable fuzzymatch if you want to use it)
 - emoji support (see allow-color-font patch)
 
-Requirements
-------------
+## Requirements
 In order to build dmenu you need the Xlib header files.
 
 
-Installation
-------------
+## Installation
+
 Edit config.mk to match your local setup (dmenu is installed into
 the /usr/local namespace by default).
 
@@ -27,6 +26,6 @@ Afterwards enter the following command to build and install dmenu
     make clean install
 
 
-Running dmenu
--------------
+## Running dmenu
+
 See the man page for details.
